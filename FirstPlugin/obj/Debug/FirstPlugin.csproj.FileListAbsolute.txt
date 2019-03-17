@@ -1,0 +1,6 @@
+c:\users\adem\documents\visual studio 2015\Projects\FirstPlugin\FirstPlugin\bin\Debug\FirstPlugin.dll
+c:\users\adem\documents\visual studio 2015\Projects\FirstPlugin\FirstPlugin\bin\Debug\FirstPlugin.pdb
+c:\users\adem\documents\visual studio 2015\Projects\FirstPlugin\FirstPlugin\obj\Debug\FirstPlugin.dll
+c:\users\adem\documents\visual studio 2015\Projects\FirstPlugin\FirstPlugin\obj\Debug\FirstPlugin.pdb
+c:\users\adem\AppData\Roaming\Autodesk\Revit\Addins\2019\FirstPlugin.dll
+c:\users\adem\AppData\Roaming\Autodesk\Revit\Addins\2019\FirstPlugin.pdb
